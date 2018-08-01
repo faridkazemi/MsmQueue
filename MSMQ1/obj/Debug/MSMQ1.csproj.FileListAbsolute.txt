@@ -1,0 +1,10 @@
+C:\Users\fkazemi\Source\Repos\MSMQ1\MSMQ1\bin\Debug\MSMQ1.exe.config
+C:\Users\fkazemi\Source\Repos\MSMQ1\MSMQ1\bin\Debug\MSMQ1.exe
+C:\Users\fkazemi\Source\Repos\MSMQ1\MSMQ1\bin\Debug\MSMQ1.pdb
+C:\Users\fkazemi\Source\Repos\MSMQ1\MSMQ1\obj\Debug\MSMQ1.csprojResolveAssemblyReference.cache
+C:\Users\fkazemi\Source\Repos\MSMQ1\MSMQ1\obj\Debug\MSMQ1.Form1.resources
+C:\Users\fkazemi\Source\Repos\MSMQ1\MSMQ1\obj\Debug\MSMQ1.Properties.Resources.resources
+C:\Users\fkazemi\Source\Repos\MSMQ1\MSMQ1\obj\Debug\MSMQ1.csproj.GenerateResource.Cache
+C:\Users\fkazemi\Source\Repos\MSMQ1\MSMQ1\obj\Debug\MSMQ1.csproj.CoreCompileInputs.cache
+C:\Users\fkazemi\Source\Repos\MSMQ1\MSMQ1\obj\Debug\MSMQ1.exe
+C:\Users\fkazemi\Source\Repos\MSMQ1\MSMQ1\obj\Debug\MSMQ1.pdb
